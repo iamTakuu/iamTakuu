@@ -1,4 +1,4 @@
-### Hi there 👋
+### I am the funni man :D
 
 <!--
 **iamTakuu/iamTakuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
