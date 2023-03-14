@@ -7,13 +7,20 @@
 ## **About me** <picture> <img align="right" src="https://media1.giphy.com/media/BQ8fxqGTsJYWc/giphy.gif" width = 250px></picture>
 
 - An entusiastic student at all stages.
-- I like making cool stuff !!!
-- "Have fun with your work, else what's the point" ~Probably Someone
+- I like working on cool stuff !!!
+
+"Life's too short to not enjoy the grind, so find your passion" ~Probably someone intelligent 🧐
+
 <br>
 <!-- Links -->
-<a href='https://www.linkedin.com/in/takunda-marowa-b4805120b/' target="__blank">
+<a href='https://www.linkedin.com/in/takunda-marowa-b4805120b/' target="_blank">
   <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/>
 </a>
-<a href='discordapp.com/users/[287582959798845440]' target="__blank">
+
+<a href='discordapp.com/users/[287582959798845440]' target="_blank">
   <img src='https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white'/>
+</a>
+
+<a href="mailto:takuatwork@outlook.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email me-100000?style=for-the-badge&logo=Tutanota&logoColor=61afef&labelColor=1f2430&color=1f2430">
 </a>
