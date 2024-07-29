@@ -6,10 +6,11 @@
 
 ## **About me** <picture> <img align="right" src="https://media1.giphy.com/media/BQ8fxqGTsJYWc/giphy.gif" width = 250px></picture>
 
-- An entusiastic student at all stages.
-- I like working on cool stuff !!!
+🤓 An entusiastic student at all stages.
+<br>
+☕ I like working on cool stuff !!! But I'm definitely sleep deprived.
 
-"Life's too short to not enjoy the grind, so find your passion" ~Probably someone intelligent 🧐
+“I say creepy is just another label we used to distance ourselves from stuff we don’t understand. Or that it reminds us of something in ourselves that we’re not comfortable with. It just ain’t a real thing, ya know? Unless you choose to believe it.” – Finn the Human
 
 <br>
 <!-- Links -->
