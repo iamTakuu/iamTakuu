@@ -18,10 +18,6 @@
   <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/>
 </a>
 
-<a href='https://discordapp.com/users/287582959798845440' target="_blank">
-  <img src='https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white'/>
-</a>
-
-<a href="mailto:takuatwork@outlook.com" target="_blank">
+<a href="mailto:impswrld@proton.me" target="_blank">
   <img src="https://img.shields.io/badge/Email me-100000?style=for-the-badge&logo=Tutanota&logoColor=61afef&labelColor=1f2430&color=1f2430">
 </a>
