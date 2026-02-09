@@ -4,7 +4,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=E385F7&center=true&vCenter=true&repeat=false&width=435&lines=Don't+forget+to+hydrate!" alt="Don't forget to hydrate!"></a>
 </p>
 
-## **About me** <picture> <img align="right" src="[https://media3.giphy.com/media/CTy6UVF4M9nNHUcsvj/giphy.gif]" width = 250px></picture>
+## **About me** <picture> <img align="right" src="https://media3.giphy.com/media/CTy6UVF4M9nNHUcsvj/giphy.gif" width = 350px></picture>
 
 🤓 An entusiastic student at all stages.
 <br>
